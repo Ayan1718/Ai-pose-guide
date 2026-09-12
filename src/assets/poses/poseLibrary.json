@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rooftop-diagonal-arm",
+    "name": "Diagonal Arm Reach",
+    "category": "rooftop-daylight",
+    "keypointAngles": {
+      "left_elbow": 160,
+      "right_elbow": 170,
+      "left_shoulder": 40,
+      "right_shoulder": 130,
+      "left_hip": 175,
+      "right_hip": 175,
+      "left_knee": 175,
+      "right_knee": 175
+    }
+  },
+  {
+    "id": "beach-full-jump",
+    "name": "Full Body Jump",
+    "category": "beach-sunset",
+    "keypointAngles": {
+      "left_elbow": 90,
+      "right_elbow": 90,
+      "left_shoulder": 160,
+      "right_shoulder": 160,
+      "left_hip": 140,
+      "right_hip": 140,
+      "left_knee": 120,
+      "right_knee": 120
+    }
+  },
+  {
+    "id": "indoor-casual-sit",
+    "name": "Casual Sit",
+    "category": "indoor-plain",
+    "keypointAngles": {
+      "left_elbow": 100,
+      "right_elbow": 150,
+      "left_shoulder": 30,
+      "right_shoulder": 45,
+      "left_hip": 95,
+      "right_hip": 95,
+      "left_knee": 90,
+      "right_knee": 90
+    }
+  }
+]
