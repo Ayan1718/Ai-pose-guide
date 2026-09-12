@@ -1,0 +1,12 @@
+node_modules/
+backend/node_modules/
+dist/
+android/app/build/
+ios/build/
+*.apk
+*.ipa
+.env
+backend/.env
+.DS_Store
+.vscode/
+.idea/
